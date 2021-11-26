@@ -597,6 +597,10 @@ header .heroDescription .socialsResume .resumeLink:focus {
 .eduContainer p {
   line-height:2.0;
 }
+.eduContainer p a {
+  line-height:2.0;
+  color: #000;
+}
 
 
 .accomplishments span{
